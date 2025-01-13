@@ -265,18 +265,6 @@ NEXT_PUBLIC_LIVEKIT_URL=""
 
 - **zustand:** A lightweight state management library for React, optimizing the management of application state and global variables.
 
-## Contributing
-
-Contributions are welcome! Here are the steps to contribute to the Sentrimetric API project:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/your-bug-fix-name`.
-3. Commit your changes: `git commit -m 'Add some feature'` or `git commit -m 'Fix some bug'`.
-4. Push to the branch: `git push origin feature/your-feature-name` or `git push origin bugfix/your-bug-fix-name`.
-5. Submit a pull request to the `main` branch of the original repository.
-
-Please make sure to update tests, if applicable, and adhere to the existing code style and guidelines.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
